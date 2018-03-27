@@ -1,0 +1,20 @@
+{
+  "name": "crudrestfullapi",
+  "version": "1.0.0",
+  "description": "Simple CRUD API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "*",
+    "express": "*",
+    "express-session": "^1.15.6",
+    "mongoose": "^4.13.7",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "author": "Hafiz Wajahat Hussain",
+  "license": "ISC"
+}
